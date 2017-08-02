@@ -1,1 +1,1 @@
-Initilize project
+Initialize project
